@@ -1,5 +1,5 @@
 # atmt 
-"Advanced Techniques of Machine Translation".\\
+"Advanced Techniques of Machine Translation".\
 Experiment Summaries
 
 Experiment 1: Hyperparameter Tuning
