@@ -1,4 +1,4 @@
-# atmt code base
+# atmt 
 Materials for "Advanced Techniques of Machine Translation".
 Experiment Summaries
 
